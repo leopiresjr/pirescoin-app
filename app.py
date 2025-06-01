@@ -107,4 +107,3 @@ if retornos:
             "⚠️ Nenhum retorno disponível. Os dados não puderam ser carregados.")
 else:
     st.warning("⚠️ Nenhuma criptomoeda teve dados disponíveis nas últimas 24h.")
-git add .
